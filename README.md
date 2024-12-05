@@ -1,4 +1,4 @@
-# Olive-Counter
+# Olive-Increments-Counter
 
 ![Screnshoot](https://github.com/Ammar-Alkhalidi/Olive-Counter/blob/main/reference.gif)
 
