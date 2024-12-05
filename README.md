@@ -4,11 +4,11 @@ This project demonstrates the implementation of a simple React app using state h
 
 
 # Features
-*-A button increments a counter value stored in React state.
-*-A Text component dynamically displays the counter and changes its behavior based on the value:
-*-Displays the count value below 10.
-*-Changes background color to olive when the count exceeds 5.
-*-Displays a specific message when the count is greater than 10.
+*- A button increments a counter value stored in React state.
+*- A Text component dynamically displays the counter and changes its behavior based on the value:
+*- Displays the count value below 10.
+*- Changes background color to olive when the count exceeds 5.
+*- Displays a specific message when the count is greater than 10.
 
 
 
