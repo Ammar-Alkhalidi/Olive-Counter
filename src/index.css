@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.backgroundOlive {
+  background-color: olive;
+  color: white;
+}
