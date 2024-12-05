@@ -1,5 +1,6 @@
 # Olive-Increments-Counter
 
+
 ![Screnshoot](https://github.com/Ammar-Alkhalidi/Olive-Counter/blob/main/reference.gif)
 
 This project demonstrates the implementation of a simple React app using state handling, props, and conditional rendering.
